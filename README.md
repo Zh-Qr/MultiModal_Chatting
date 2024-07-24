@@ -2,6 +2,8 @@
 
 **This project is Just 4 Fun！！！**
 
+The personal API will be shut down in 31/7/2024. Please update the API.  
+
 Thie project is based on [ChatTTS](https://github.com/2noise/ChatTTS) and [hallo](https://github.com/fudan-generative-vision/hallo)!
 ---
 - 开头提出本项目的概述和需要解决的问题的陈述
