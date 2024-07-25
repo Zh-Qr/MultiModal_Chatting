@@ -15,10 +15,10 @@ Thie project is based on [ChatTTS](https://github.com/2noise/ChatTTS) and [hallo
 - 使用复旦大学最新发布的hallo音频驱动视频生成大模型，生成拟人化的视频信息
 - 项目进行了实际使用效果的展示
 
-- **项目主要介绍文件：**main.ipynb
-- **ChatTTS大模型介绍文件：**ChatTTS-main/example.ipynb
-- **ChatTTS单个音频生成文件（放在GPU设备运行）：**ChatTTS-main/run.py
-- **ChatTTS批量音频生成文件（放在GPU设备运行）：**ChatTTS-main/run_batch.py
-- **hallo视频生成基础图像：**hallosource/examples/picture
-- **hallo生成的视频文件：**output
-- **项目结构、流程图：**picture
+- 项目主要介绍文件：main.ipynb
+- ChatTTS大模型介绍文件：ChatTTS-main/example.ipynb
+- ChatTTS单个音频生成文件（放在GPU设备运行）：ChatTTS-main/run.py
+- ChatTTS批量音频生成文件（放在GPU设备运行）：ChatTTS-main/run_batch.py
+- hallo视频生成基础图像：hallosource/examples/picture
+- hallo生成的视频文件：output
+- 项目结构、流程图：picture
